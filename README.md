@@ -1,5 +1,5 @@
 ### Explanation for the VBoxManage python script
-This also includes a version that once completed, would allow you to make a number selection along with being able to select all the vms and loop through the backup script until all the vms have completed a backup. That version is [TestCode.](/Drafts/TestCode.py) I do not have the knowledge to make this work, so I have to use this. Also includes the previous version of this, which sets the variables in the fuctions as global. The [VBoxManage](VBoxManageBackup.py) version has fixed this.
+This also includes a version that once completed, would allow you to make a number selection along with being able to select all the vms and loop through the backup script until all the vms have completed a backup. That version is [TestCode.](https://github.com/theman1616/VirtualBox_Export_Script/blob/main/Drafts/Testcode.py) I do not have the knowledge to make this work, so I have to use this. Also includes the previous version of this, which sets the variables in the fuctions as global. The [VBoxManage](VBoxManageBackup.py) version has fixed this.
 
 [Previous_Version](https://github.com/theman1616/VirtualBox_Export_Script/blob/main/Drafts/VboxManage_Backup_Script.py)
 
